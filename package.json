@@ -1,0 +1,14 @@
+{
+  "name": "testeapinode",
+  "version": "1.0.0",
+  "description": "Teste de API REST com Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luís Henrique",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
